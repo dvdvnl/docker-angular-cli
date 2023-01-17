@@ -1,4 +1,4 @@
-# Docker Angular CLI 15.0.5
+# Docker Angular CLI 15.1.1
 
 ## Launch 🚀
 

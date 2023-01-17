@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   angular-cli:
-    image: dvdvnl/docker-angular-cli:15.0.5
+    image: dvdvnl/docker-angular-cli:15.1.1
     build:
       context: .
     ports:
