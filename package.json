@@ -1,0 +1,24 @@
+{
+  "name": "docker-angular-cli",
+  "version": "15.0.5",
+  "description": "WSL workaround for quick'n'dirty testing a NG web app on other devices on the LAN",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvdvnl/docker-angular-cli.git"
+  },
+  "keywords": [
+    "docker",
+    "wsl",
+    "angular"
+  ],
+  "author": "david vnl <io@davole.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvdvnl/docker-angular-cli/issues"
+  },
+  "homepage": "https://github.com/dvdvnl/docker-angular-cli#readme",
+  "dependencies": {
+    "@angular/cli": "^15.0.5"
+  }
+}
